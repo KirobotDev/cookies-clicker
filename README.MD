@@ -5,10 +5,15 @@
 <details>
   <summary>Afficher la roadmap</summary>
   <br />
-  <img src="https://i.postimg.cc/3JK1spFL/image.png" />
-  <img src="https://i.postimg.cc/qqrwMCVX/image.png" />
-  <img src="https://i.postimg.cc/13vjCMh1/image.png" />
 
+  <div style="display: flex; gap: 10px;">
+    <img src="https://i.postimg.cc/3JK1spFL/image.png" style="width: 50%;" />
+    <img src="https://i.postimg.cc/qqrwMCVX/image.png" style="width: 50%;" />
+  </div>
+
+  <div style="margin-top: 10px;">
+    <img src="https://i.postimg.cc/13vjCMh1/image.png" style="width: 100%;" />
+  </div>
 </details>
 
 
