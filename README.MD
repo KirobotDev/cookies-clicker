@@ -5,8 +5,8 @@
 <details>
   <summary>Afficher la roadmap</summary>
   <br />
-  <img src="https://i.postimg.cc/XYgbV9RQ/image.png" />
-  <img src="https://i.postimg.cc/ZK8kcrKw/image.png" />
+  <img src="https://i.postimg.cc/3JK1spFL/image.png" />
+  <img src="https://i.postimg.cc/qqrwMCVX/image.png" />
   <img src="https://i.postimg.cc/13vjCMh1/image.png" />
 
 </details>
