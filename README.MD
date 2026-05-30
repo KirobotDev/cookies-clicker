@@ -7,11 +7,9 @@
   <br />
 
   <div align="center">
-
     <img src="https://i.postimg.cc/3JK1spFL/image.png" width="300" height="250" />
     <img src="https://i.postimg.cc/qqrwMCVX/image.png" width="300" height="250" />
     <img src="https://i.postimg.cc/13vjCMh1/image.png" width="300" height="250" />
-
   </div>
 
 </details>
